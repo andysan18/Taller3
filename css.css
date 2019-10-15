@@ -1,0 +1,11 @@
+body{
+	background-color: white;
+}
+
+#Superior{
+    margin-top: 3%;
+}
+
+textarea{
+    resize: none;
+}
